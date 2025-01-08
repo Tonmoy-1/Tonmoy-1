@@ -43,11 +43,12 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide=prs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&count_private=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy-1&layout=compact&theme=radical&count_private=true" alt="Top Languages" width="48%" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoy-1&theme=radical" alt="Streak Stats" width="75%" />
 </div>
+
 
 ---
 
