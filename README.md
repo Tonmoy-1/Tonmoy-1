@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to My World! 🌟</h1>
 
 <p align="center">
-  <img src="[https://your-banner-image-url.com](https://x.com/TonmoyHosen01/header_photo)" alt="Banner" width="75%" />
+  <img src="https://x.com/TonmoyHosen01/header_photo" alt="Banner" width="85%" />
 </p>
 
 ---
