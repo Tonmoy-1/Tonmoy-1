@@ -42,11 +42,10 @@
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical&count_private=true" alt="Tonmoy's GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy-1&layout=compact&theme=radical&count_private=true" alt="Tonmoy's Top Languages" height="200" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical&count_private=true" alt="Tonmoy's GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy-1&layout=compact&theme=radical&count_private=true" alt="Tonmoy's Top Languages" width="45%" />
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoy-1&theme=radical" alt="Tonmoy's Streak Stats" width="80%" />
@@ -61,6 +60,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy-1&theme=radical&hide_border=true&bg_color=1F1F1F&color=10B98E&line=F78C6C&point=FFFAFA" alt="Tonmoy's Activity Graph" width="80%" />
 </div>
+
 
 
 
