@@ -60,13 +60,14 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical&count_private=true" 
        alt="Tonmoy's GitHub Stats" 
-       style="height: 200px; object-fit: contain;" />
+       style="flex: 1; height: 200px; object-fit: contain;" />
        
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy-1&layout=compact&theme=radical&count_private=true" 
        alt="Tonmoy's Top Languages" 
-       style="height: 200px; object-fit: contain;" />
+       style="flex: 1; height: 200px; object-fit: contain;" />
 </div>
+
 
 
 
