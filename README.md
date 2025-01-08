@@ -1,78 +1,78 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Your Name] 
+
+![Banner](https://your-banner-image-url.com)
 
 ## 🚀 About Me
-I'm a **developer** passionate about building user-friendly and efficient web applications. I specialize in **JavaScript** and **Tailwind CSS**, focusing on creating seamless front-end experiences. Currently, I'm developing two exciting projects:
 
-1. **Chill Gamer 🎮** – A game review platform where users can explore, share, and manage game reviews.
-2. **Coupon Saver BD 💸** – A coupon collecting app that helps users find and use the best deals from e-commerce platforms in Bangladesh.
+I'm a **passionate developer** focused on creating intuitive and responsive web applications. I thrive on turning ideas into reality using code and design.  
+
+🌟 **Key Areas of Interest:**  
+- Frontend Development (JavaScript, Tailwind CSS)  
+- User-Centered Design  
+- Building Scalable Applications
+
+🎮 Currently Building:
+- **[Chill Gamer](https://yourprojectlink.com)** – A dynamic game review platform.
+- **[Coupon Saver BD](https://yourprojectlink.com)** – Helping users grab the best deals.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-- JavaScript (React, Node.js)  
-- HTML5 & CSS3 (Tailwind CSS)  
-
-**Tools & Libraries:**  
-- Firebase (Authentication, Firestore)  
-- React Router DOM  
-- React Icons  
-- React Star  
-- Lottie React  
-- React Simple Typewriter  
-- React Awesome Reveal  
-- MongoDB  
+| **Category**    | **Tools/Technologies**                    |
+|-----------------|-----------------------------------------|
+| Languages       | JavaScript, HTML5, CSS3                  |
+| Frontend        | React, Tailwind CSS                      |
+| Backend         | Node.js, Express                         |
+| Database        | MongoDB, Firebase Firestore              |
+| Tools/Services  | Firebase Auth, React Router DOM          |
+| Animation       | Lottie React, React Awesome Reveal       |
+| UI Components   | React Icons, React Star                  |
 
 ---
 
 ## 📈 Current Projects
 
-### Chill Gamer 🎮
-- **A Game Review Platform**  
-- Key Features:
-  - User Authentication (Firebase)
-  - Review Management (Add/Update/Delete Reviews)
-  - Game Watchlist Management
-  - Dark/Light Mode Toggle
-  - Review Sorting & Filtering
-  - 404 Custom Page
+### 🎮 Chill Gamer
+- **Game Review Platform**  
+- 🌐 Explore & share game reviews
+- 🛡️ Private routes for user-specific data
+- 🌑 Dark/Light mode toggle
+- 🧩 Sorting & filtering by genre/rating
+- 📅 Manage game watchlists
 
-### Coupon Saver BD 💸
-- **Coupon Collecting Application**  
-- Key Features:
-  - Login/Sign-up (Firebase Authentication)
-  - Discover and Use Coupons
-  - Responsive Design with Tailwind CSS
-  - Interactive UI with React Components
+### 💸 Coupon Saver BD
+- **Coupon Aggregation App**  
+- 🔐 Firebase authentication
+- 💼 E-commerce coupon integration
+- 🎨 Clean, responsive UI with Tailwind CSS
+- ⚡ Fast, smooth user experience
 
 ---
 
 ## 🌐 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
-- **Website:** [Your Personal Website or Project](https://yourwebsite.com)
+- **🔗 [LinkedIn](https://linkedin.com/in/yourprofile)**  
+- **🐱 [GitHub](https://github.com/yourusername)**  
+- **🌐 [Portfolio](https://yourwebsite.com)**
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</div>
 
 ---
 
-## 🔧 Top Skills
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 🎯 2025 Goals
+- 🚀 Launch **Chill Gamer** publicly
+- 📈 Expand **Coupon Saver BD** with advanced features
+- 💡 Master new front-end tools
+- 🤝 Collaborate on exciting open-source projects
 
 ---
 
-## 🎯 Goals for 2025
-- Build and launch **Chill Gamer** publicly.
-- Scale **Coupon Saver BD** with more features.
-- Continue mastering **React** and **Tailwind CSS**.
-- Collaborate on more open-source projects.
-
----
-
-### Thanks for stopping by! ✨
-> Let's build something amazing together. Feel free to reach out! 😊
+### ⭐ Thanks for Visiting!
+> *“Building the future, one line of code at a time.”*
 
