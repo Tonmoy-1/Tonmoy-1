@@ -65,7 +65,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy-1&layout=compact&theme=radical&count_private=true" 
        alt="Tonmoy's Top Languages" 
-       style="width: 45%; height: 200px;" />
+       style="width: 40%; height: 200px;" />
 </div>
 
 
