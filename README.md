@@ -77,10 +77,10 @@
 <h2 align="center">🎯 2025 Goals</h2>
 
 <ul align="center">
-  <li>🚀 Launch <strong>Chill Gamer</strong> with an engaging user experience</li>
-  <li>🎉 Scale <strong>Coupon Saver BD</strong> to reach more users</li>
-  <li>🧠 Master advanced frontend technologies and best practices</li>
-  <li>🤝 Collaborate on impactful open-source projects</li>
+  <p>🚀 Launch <strong>Chill Gamer</strong> with an engaging user experience</p>
+  <p>🎉 Scale <strong>Coupon Saver BD</strong> to reach more users</p>
+  <p>🧠 Master advanced frontend technologies and best practices</p>
+  <p>🤝 Collaborate on impactful open-source projects</p>
 </ul>
 
 ---
