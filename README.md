@@ -25,10 +25,10 @@
 <h2 align="center">🔥 Current Projects</h2>
 
 <div align="center">
-  <a href="https://yourprojectlink.com">
+  <a href="https://chil-gamer.web.app/">
     <img src="https://img.shields.io/badge/-Chill%20Gamer-10B98E?style=for-the-badge&logo=steam&logoColor=white" alt="Chill Gamer" />
   </a>
-  <a href="https://yourprojectlink.com">
+  <a href="https://discount-pro-e61ca.web.app">
     <img src="https://img.shields.io/badge/-Coupon%20Saver%20BD-FF4500?style=for-the-badge&logo=google&logoColor=white" alt="Coupon Saver BD" />
   </a>
 </div>
