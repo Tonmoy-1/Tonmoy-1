@@ -10,9 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F78C6C&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Tailwind+CSS+Lover;Full+Stack+Explorer" alt="Typing SVG" />
 </p>
 
-<p align="center">  
-I'm a creative <strong>Frontend Developer</strong> who enjoys crafting elegant and functional user experiences.<br/>  
-Obsessed with minimal design, clean code, and delightful interactions.  
+<p align="center">
+  I'm a creative <strong>Frontend Developer</strong> who enjoys crafting elegant and functional user experiences.<br/>
+  Obsessed with minimal design, clean code, and delightful interactions.
 </p>
 
 ---
@@ -40,12 +40,12 @@ Obsessed with minimal design, clean code, and delightful interactions.
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true&hide=prs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="48%" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" width="70%"/>
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" width="70%" />
+</p>
 
 ---
 
@@ -76,8 +76,8 @@ Obsessed with minimal design, clean code, and delightful interactions.
 
 ---
 
-<p align="center">  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Love Badge" />  
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Love Badge" />
   <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="JS Badge" />
 </p>
 
