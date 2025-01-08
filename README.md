@@ -1,111 +1,89 @@
-<h1 align="center">Hi there! 👋 I'm <a href="#">[Your Name]</a></h1>
+<h1 align="center">👋 Hey there, I'm <a href="#">[Your Name]</a></h1>
 
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Banner" width="100%"/>
+  <img src="https://your-banner-image-url.com" alt="Banner" width="80%"/>
 </p>
-
-<h2>🚀 About Me</h2>
-<p>
-I'm a <strong>passionate developer</strong> focused on creating intuitive and responsive web applications. I thrive on turning ideas into reality using code and design.
-</p>
-
-<ul>
-  <li>🌟 <strong>Frontend Development</strong> (JavaScript, Tailwind CSS)</li>
-  <li>🎯 <strong>User-Centered Design</strong></li>
-  <li>📈 <strong>Building Scalable Applications</strong></li>
-</ul>
-
-<h3>🎮 Currently Building:</h3>
-<ul>
-  <li>🔗 <a href="https://yourprojectlink.com">Chill Gamer</a> – A dynamic game review platform.</li>
-  <li>🔗 <a href="https://yourprojectlink.com">Coupon Saver BD</a> – Helping users grab the best deals.</li>
-</ul>
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
-<table>
+<h2 align="center">💻 About Me</h2>
+
+<p align="center">
+  I'm a <strong>Frontend Developer</strong> passionate about creating interactive and responsive web applications. <br/>
+  I love crafting clean code and beautiful user interfaces that bring ideas to life.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,github,nodejs,mongodb" alt="Tech Stack" />
+</p>
+
+---
+
+<h2 align="center">🚧 Current Projects</h2>
+
+<div align="center">
+  <a href="https://yourprojectlink.com">
+    <img src="https://img.shields.io/badge/-Chill%20Gamer-8A2BE2?style=for-the-badge&logo=steam" alt="Chill Gamer" />
+  </a>
+  <a href="https://yourprojectlink.com">
+    <img src="https://img.shields.io/badge/-Coupon%20Saver%20BD-00BFFF?style=for-the-badge&logo=firefox" alt="Coupon Saver BD" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table align="center">
   <tr>
-    <th>Category</th>
-    <th>Tools/Technologies</th>
-  </tr>
-  <tr>
-    <td>Languages</td>
-    <td>JavaScript, HTML5, CSS3</td>
-  </tr>
-  <tr>
-    <td>Frontend</td>
-    <td>React, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>Node.js, Express</td>
-  </tr>
-  <tr>
-    <td>Database</td>
-    <td>MongoDB, Firebase Firestore</td>
-  </tr>
-  <tr>
-    <td>Tools/Services</td>
-    <td>Firebase Auth, React Router DOM</td>
-  </tr>
-  <tr>
-    <td>Animation</td>
-    <td>Lottie React, React Awesome Reveal</td>
-  </tr>
-  <tr>
-    <td>UI Components</td>
-    <td>React Icons, React Star</td>
+    <td><img src="https://skillicons.dev/icons?i=js" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" width="40" /></td>
   </tr>
 </table>
 
 ---
 
-<h2>📈 Current Projects</h2>
-
-<h3>🎮 Chill Gamer</h3>
-<ul>
-  <li>🌐 Explore & share game reviews</li>
-  <li>🛡️ Private routes for user-specific data</li>
-  <li>🌑 Dark/Light mode toggle</li>
-  <li>🧩 Sorting & filtering by genre/rating</li>
-  <li>📅 Manage game watchlists</li>
-</ul>
-
-<h3>💸 Coupon Saver BD</h3>
-<ul>
-  <li>🔐 Firebase authentication</li>
-  <li>💼 E-commerce coupon integration</li>
-  <li>🎨 Clean, responsive UI with Tailwind CSS</li>
-  <li>⚡ Fast, smooth user experience</li>
-</ul>
-
----
-
-<h2>🌐 Let's Connect</h2>
-<p>
-  🔗 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | 🐱 <a href="https://github.com/yourusername">GitHub</a> | 🌐 <a href="https://yourwebsite.com">Portfolio</a>
-</p>
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
 </div>
 
 ---
 
-<h2>🎯 2025 Goals</h2>
-<ul>
-  <li>🚀 Launch <strong>Chill Gamer</strong> publicly</li>
-  <li>📈 Expand <strong>Coupon Saver BD</strong> with advanced features</li>
-  <li>💡 Master new front-end tools</li>
-  <li>🤝 Collaborate on exciting open-source projects</li>
-</ul>
+<h2 align="center">🌐 Let's Connect</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=dribbble" />
+  </a>
+</p>
 
 ---
 
-<h3 align="center">⭐ Thanks for Visiting!</h3>
-<p align="center"><em>“Building the future, one line of code at a time.”</em></p>
+<h2 align="center">🎯 Goals for 2025</h2>
+<ul align="center">
+  <li>🚀 Launch <strong>Chill Gamer</strong> to the public</li>
+  <li>📈 Grow <strong>Coupon Saver BD</strong> to new heights</li>
+  <li>💡 Explore and master new front-end libraries</li>
+  <li>🤝 Collaborate more in open-source projects</li>
+</ul>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="80%"/>
+</p>
+
+---
+
+<h3 align="center">⭐ Thank you for stopping by!</h3>
+<p align="center">✨ Let's build something amazing together! ✨</p>
