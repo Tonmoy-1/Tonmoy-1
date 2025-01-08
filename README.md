@@ -1,12 +1,8 @@
 <p align="center">
   <img src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/473021221_1500298297303864_3729691673714373032_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=md5rP_vd8ZMQ7kNvgEQL2tr&_nc_zt=23&_nc_ht=scontent.fdac27-2.fna&_nc_gid=AYoAgH3-AcPvUuC2fjvCLHM&oh=00_AYB6DsTgxjVbid-s26TKK9zEf6YCvQ_vGtGjta-HETbTyg&oe=67840627" alt="Banner" width="100%" />
 </p>
----
 <h1 align="center">🌟 Welcome to My World! 🌟</h1>
----
-
 <h2 align="center">✨ About Me</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=10B98E&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Enthusiast;Tailwind+CSS+Lover;Full+Stack+Explorer;Creating+Beautiful+Web+Experiences" alt="Typing SVG" />
 </p>
