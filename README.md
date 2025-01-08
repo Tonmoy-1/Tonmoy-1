@@ -42,10 +42,11 @@
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical&count_private=true" alt="Tonmoy's GitHub Stats" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy-1&layout=compact&theme=radical&count_private=true" alt="Tonmoy's Top Languages" height="200" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoy-1&theme=radical" alt="Tonmoy's Streak Stats" width="80%" />
