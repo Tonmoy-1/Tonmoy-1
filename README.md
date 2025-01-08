@@ -1,63 +1,95 @@
-# Hi there! 👋 I'm [Your Name] 
+<h1 align="center">Hi there! 👋 I'm <a href="#">[Your Name]</a></h1>
 
-![Banner](https://your-banner-image-url.com)
+<p align="center">
+  <img src="https://your-banner-image-url.com" alt="Banner" width="100%"/>
+</p>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
+<p>
+I'm a <strong>passionate developer</strong> focused on creating intuitive and responsive web applications. I thrive on turning ideas into reality using code and design.
+</p>
 
-I'm a **passionate developer** focused on creating intuitive and responsive web applications. I thrive on turning ideas into reality using code and design.  
+<ul>
+  <li>🌟 <strong>Frontend Development</strong> (JavaScript, Tailwind CSS)</li>
+  <li>🎯 <strong>User-Centered Design</strong></li>
+  <li>📈 <strong>Building Scalable Applications</strong></li>
+</ul>
 
-🌟 **Key Areas of Interest:**  
-- Frontend Development (JavaScript, Tailwind CSS)  
-- User-Centered Design  
-- Building Scalable Applications
-
-🎮 Currently Building:
-- **[Chill Gamer](https://yourprojectlink.com)** – A dynamic game review platform.
-- **[Coupon Saver BD](https://yourprojectlink.com)** – Helping users grab the best deals.
-
----
-
-## 🛠️ Tech Stack
-
-| **Category**    | **Tools/Technologies**                    |
-|-----------------|-----------------------------------------|
-| Languages       | JavaScript, HTML5, CSS3                  |
-| Frontend        | React, Tailwind CSS                      |
-| Backend         | Node.js, Express                         |
-| Database        | MongoDB, Firebase Firestore              |
-| Tools/Services  | Firebase Auth, React Router DOM          |
-| Animation       | Lottie React, React Awesome Reveal       |
-| UI Components   | React Icons, React Star                  |
+<h3>🎮 Currently Building:</h3>
+<ul>
+  <li>🔗 <a href="https://yourprojectlink.com">Chill Gamer</a> – A dynamic game review platform.</li>
+  <li>🔗 <a href="https://yourprojectlink.com">Coupon Saver BD</a> – Helping users grab the best deals.</li>
+</ul>
 
 ---
 
-## 📈 Current Projects
-
-### 🎮 Chill Gamer
-- **Game Review Platform**  
-- 🌐 Explore & share game reviews
-- 🛡️ Private routes for user-specific data
-- 🌑 Dark/Light mode toggle
-- 🧩 Sorting & filtering by genre/rating
-- 📅 Manage game watchlists
-
-### 💸 Coupon Saver BD
-- **Coupon Aggregation App**  
-- 🔐 Firebase authentication
-- 💼 E-commerce coupon integration
-- 🎨 Clean, responsive UI with Tailwind CSS
-- ⚡ Fast, smooth user experience
+<h2>🛠️ Tech Stack</h2>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tools/Technologies</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>JavaScript, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js, Express</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MongoDB, Firebase Firestore</td>
+  </tr>
+  <tr>
+    <td>Tools/Services</td>
+    <td>Firebase Auth, React Router DOM</td>
+  </tr>
+  <tr>
+    <td>Animation</td>
+    <td>Lottie React, React Awesome Reveal</td>
+  </tr>
+  <tr>
+    <td>UI Components</td>
+    <td>React Icons, React Star</td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Let's Connect
-- **🔗 [LinkedIn](https://linkedin.com/in/yourprofile)**  
-- **🐱 [GitHub](https://github.com/yourusername)**  
-- **🌐 [Portfolio](https://yourwebsite.com)**
+<h2>📈 Current Projects</h2>
+
+<h3>🎮 Chill Gamer</h3>
+<ul>
+  <li>🌐 Explore & share game reviews</li>
+  <li>🛡️ Private routes for user-specific data</li>
+  <li>🌑 Dark/Light mode toggle</li>
+  <li>🧩 Sorting & filtering by genre/rating</li>
+  <li>📅 Manage game watchlists</li>
+</ul>
+
+<h3>💸 Coupon Saver BD</h3>
+<ul>
+  <li>🔐 Firebase authentication</li>
+  <li>💼 E-commerce coupon integration</li>
+  <li>🎨 Clean, responsive UI with Tailwind CSS</li>
+  <li>⚡ Fast, smooth user experience</li>
+</ul>
 
 ---
 
-## 📊 GitHub Stats
+<h2>🌐 Let's Connect</h2>
+<p>
+  🔗 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | 🐱 <a href="https://github.com/yourusername">GitHub</a> | 🌐 <a href="https://yourwebsite.com">Portfolio</a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
@@ -65,14 +97,15 @@ I'm a **passionate developer** focused on creating intuitive and responsive web 
 
 ---
 
-## 🎯 2025 Goals
-- 🚀 Launch **Chill Gamer** publicly
-- 📈 Expand **Coupon Saver BD** with advanced features
-- 💡 Master new front-end tools
-- 🤝 Collaborate on exciting open-source projects
+<h2>🎯 2025 Goals</h2>
+<ul>
+  <li>🚀 Launch <strong>Chill Gamer</strong> publicly</li>
+  <li>📈 Expand <strong>Coupon Saver BD</strong> with advanced features</li>
+  <li>💡 Master new front-end tools</li>
+  <li>🤝 Collaborate on exciting open-source projects</li>
+</ul>
 
 ---
 
-### ⭐ Thanks for Visiting!
-> *“Building the future, one line of code at a time.”*
-
+<h3 align="center">⭐ Thanks for Visiting!</h3>
+<p align="center"><em>“Building the future, one line of code at a time.”</em></p>
