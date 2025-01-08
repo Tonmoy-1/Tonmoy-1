@@ -56,24 +56,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy-1&theme=radical&hide_border=true&bg_color=1F1F1F&color=10B98E&line=F78C6C&point=FFFAFA" alt="Tonmoy's Activity Graph" width="80%" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical&count_private=true" 
-       alt="Tonmoy's GitHub Stats" 
-       style="flex: 1; height: 200px; object-fit: contain;" />
-       
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy-1&layout=compact&theme=radical&count_private=true" 
-       alt="Tonmoy's Top Languages" 
-       style="flex: 1; height: 200px; object-fit: contain;" />
-</div>
-
-
-
-
-
-
-
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
