@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/DwvbZrF/canvas-1-677e328db4206d430029ed8f.png" alt="Banner" width="100%" />
+  <img src="https://scontent.fjsr12-1.fna.fbcdn.net/v/t39.30808-6/473021221_1500298297303864_3729691673714373032_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=q4zI6p3Ez6EQ7kNvgEA8g3J&_nc_zt=23&_nc_ht=scontent.fjsr12-1.fna&_nc_gid=AYxfodjOcAmWTYWs64Q2SKN&oh=00_AYA7ZB8zsHFUAE_h-gxaAGm6zTvQaAR50qN_2or_FQuu_w&oe=67A68567" alt="Banner" width="100%" />
 </p>
 <h1 align="center">🌟 Welcome to My World! 🌟</h1>
 <h2 align="center">✨ About Me</h2>
