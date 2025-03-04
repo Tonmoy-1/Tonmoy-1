@@ -38,7 +38,7 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Streak-red?style=for-the-badge&logo=github" alt="GitHub Streak Badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tonmoy-1&theme=radical" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
