@@ -38,7 +38,7 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical" alt="Tonmoy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical" alt="Tonmoy's GitHub Stats" width="80%" />
 </div>
 
 <div align="center">
