@@ -38,8 +38,9 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Streak-red?style=for-the-badge&logo=github" alt="GitHub Streak Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tonmoy-1&show_icons=true&theme=radical" alt="Tonmoy's GitHub Stats" />
 </div>
+
 <div align="center">
   <a href="https://github.com/Tonmoy-1">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tonmoy-1&theme=radical" alt="Tonmoy's Contribution Graph" width="80%" />
