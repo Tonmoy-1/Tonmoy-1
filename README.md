@@ -38,7 +38,7 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tonmoy-1&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Tonmoy-1&theme=radical" alt="Tonmoy's Streak Stats" width="80%" />
 </div>
 
 <div align="center">
