@@ -38,8 +38,9 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=Tonmoy-1&theme=radical" alt="Tonmoy's Streak Stats" width="80%" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Tonmoy-1&theme=dark" alt="Tonmoy's Streak Stats" width="80%" />
 </div>
+
 
 <div align="center">
   <a href="https://github.com/Tonmoy-1">
